@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Githuuuuub!!
 
 
 - 🔭 I’m currently studying Software Engineering at ITESM
