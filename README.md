@@ -2,9 +2,6 @@
 
 <h1 align="center">👋 Hi there, I'm Roberto! 👋</h1>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-profile-image-link" alt="Profile Picture" width="150" height="150" style="border-radius:50%;"/>
-</p>
 
 <p align="center">
   🚀 Software Engineer Student at <strong>Tecnológico de Monterrey</strong><br>
