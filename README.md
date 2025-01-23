@@ -24,11 +24,13 @@
 <h2 align="center">🛠️ Tech Stack 🛠️</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=blue" alt="React">
-  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=green" alt="Node.js">
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue" alt="Docker">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue" alt="Python">
+  <img src="https://img.shields.io/badge/API-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=black" alt="OpenAI API">
+  <img src="https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=blue" alt="React Native">
+  <img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=black" alt="Next.js">
+  <img src="https://img.shields.io/badge/Library-agentpy-informational?style=flat&logo=python&logoColor=white&color=blue" alt="agentpy">
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue" alt="C++">
+  <img src="https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=black" alt="Flask">
 </p>
 
 ---
