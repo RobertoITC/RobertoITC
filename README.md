@@ -34,7 +34,6 @@
 </p>
 
 ---
----
 
 <h2 align="center">🌐 Connect With Me 🌐</h2>
 
@@ -47,11 +46,4 @@
   </a>
 </p>
 
----
-
-<h2 align="center">🎨 Inspirational Quote 🎨</h2>
-
-<p align="center">
-  🌟 "Never stop exploring the possibilities of learning, creating, and innovating." 🌟
-</p>
 
